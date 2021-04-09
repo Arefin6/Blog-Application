@@ -6,6 +6,7 @@ import {
   Route,
 } from "react-router-dom";
 import Home from './components/Home/Home';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </Route>
       </Switch>
     </Router>
+     <Footer></Footer>
    </>
   );
 }

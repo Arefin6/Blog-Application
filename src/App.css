@@ -1,0 +1,6 @@
+.blogTop{
+    background: linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.15)),
+    url(../src/images/farniture1.jpg)center center no-repeat;
+    height: 25rem;
+    width: 100%;
+}
